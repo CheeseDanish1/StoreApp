@@ -1,0 +1,5 @@
+{
+    "STOCK_SPREADSHEET_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRy7FDV3FPFsbKdl8TVCGi4py8y6z_r0EkTtpvYsd6Q3gNNSuxMZhY1DIhpBCnoobnL86Wi0wHvDjhL/pub?output=csv",
+    "PEOPLE_SPREADSHEET_URL": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRy7FDV3FPFsbKdl8TVCGi4py8y6z_r0EkTtpvYsd6Q3gNNSuxMZhY1DIhpBCnoobnL86Wi0wHvDjhL/pub?gid=61838036&single=true&output=csv",
+    "SERVER_URL": "http://localhost:3001"
+}
